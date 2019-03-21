@@ -9,9 +9,11 @@ I was recently working with a customer who was using G-Suite for collaboration. 
 
 By default, chats don’t get migrated to Office 365 but on Google we have an option of selecting all the chats and “Move to Inbox”. 
 ![](/images/G_Suite_Move to Inbox.jpg)
+
 Once this is done, mailbox migration process can move the chats as “Individual Emails” to Inbox. Although we can get the Hangout Chats to Office 365 mailbox but following are few observations which may not be acceptable to customers.
--Sequence of conversation is not maintained.
--Image/Files shared on hangouts are not reflecting in Office 365.
+
+- Sequence of conversation is not maintained.
+- Image/Files shared on hangouts are not reflecting in Office 365.
 -Information about second party involved in conversation is NOT captured.
 -Timestamping changes in Office 365 as all messages show same time (time of migration).
 -Each message in Office 365 is just single line. "Enter" event is generating a new message in Office 365. 
