@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-#title: Move Google Hangout chats to Office 365
+#title: Move Google Hangout chats to O365
 
 ---
 I was recently working with a customer who was using G-Suite for collaboration. When we spoke about migration of their existing G-Suite data to Office 365, they informed that they have some critical data on Hangout Chats which the want to move to Office 365 as well. I checked and found that there are no native or 3rd party tools which can do Hangout Chat data migration. Since this was "showstopper" for them, I looked for options and found that we can move the Hangout chat data to Office 365 with some manual effort and few riders discussed below.
