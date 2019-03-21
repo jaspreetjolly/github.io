@@ -6,6 +6,7 @@ layout: post
 I was recently working with a customer who was using G-Suite for collaboration. When we spoke about migration of their existing G-Suite data to Office 365, they informed that they have some critical data on Hangout Chats which the want to move to Office 365 as well. I checked and found that there are no native or 3rd party tools which can do Hangout Chat data migration. Since this was "showstopper" for them, I looked for options and found that we can move the Hangout chat data to Office 365 with some manual effort and few riders discussed below.
 
 ### Option 1: Move to Inbox and using mailbox migration tool. 
+
 By default, chats don’t get migrated to Office 365 but on Google we have an option of selecting all the chats and “Move to Inbox”. 
 ![](/images/G_Suite_Move to Inbox.jpg)
 Once this is done, mailbox migration process can move the chats as “Individual Emails” to Inbox. Although we can get the Hangout Chats to Office 365 mailbox but following are few observations which may not be acceptable to customers.
