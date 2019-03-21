@@ -24,11 +24,11 @@ Once this is done, mailbox migration process can move the chats as individual em
 
 In this method, I exported Hangout chats using Google Takeout into JSON format and then used JSON to CSV converter. Once CSV's are available, we can import them to either user mailbox or OneDrive or even in Microsoft Teams.
 
-Although this option doesnt reflect the data directly in user mailbox for search a different CSV gets generated for each user interaction for e.g. a separate CSV will get generated for interaction between user A and user B and user A and user C which results in lot of administrative activity to manage these CSV’s and associate with user’s profile but good part is that:
+Although this option doesn't reflect the data directly in user mailbox for search and unique CSV gets generated for each user interaction resulting in lot of administrative overhead from migration perspective as administrator has to manage these CSV’s and associate with user’s profile but good part is that:
+
 - Sequence of conversation is maintained.
 - We get a URL for accessing Image/Files shared on hangouts.
 - Information about second party involved in conversation is captured.
-- Timestamping is maintained.
+- Timestamp is maintained.
 
-
-
+Although both approaches mentioned above have their Pro's and Con's but considering that people generally don’t have very critical data stored in chats, hopefully you will have to do this very rarely and that too for limited users. Also hope that 3rd party migration tool vendors look into this and create a tools for this option.
