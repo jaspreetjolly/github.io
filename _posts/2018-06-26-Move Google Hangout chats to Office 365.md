@@ -31,4 +31,4 @@ Although this option doesn't reflect the data directly in user mailbox for searc
 - Information about second party involved in conversation is captured.
 - Timestamp is maintained.
 
-Although both approaches mentioned above have their Pro's and Con's but considering that people generally don’t have very critical data stored in chats, hopefully you will have to do this very rarely and that too for limited users. Also hope that 3rd party migration tool vendors look into this and create a tools for this option.
+Although both approaches mentioned above have their Pro's and Con's but considering that people generally don’t have very critical data stored in chats, hopefully you will have to do this very rarely and that too for limited users. Also hope that 3rd party migration tool vendors look into this and create a tools for this.
