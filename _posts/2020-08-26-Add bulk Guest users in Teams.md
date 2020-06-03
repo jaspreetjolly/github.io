@@ -15,6 +15,7 @@ By default, chats don’t get migrated to Office 365 but in G-Suite we have an o
 
 ![](/images/Create Group1.jpg)
 
+![](/images/Group details small.png)
 ![](/images/Group details.png)
 
 ![](/images/Invite Email.jpg)
